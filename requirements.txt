@@ -8,3 +8,4 @@ scikit-image
 deepdish>=0.3
 absl-py
 ipdb
+tensorflow-gpu==1.4.0
